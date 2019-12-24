@@ -16,6 +16,15 @@ const texts = {
         repeats: "Times:",
         confirmation: "Command sent!"
     },
+    "ru": {
+        mode: "Режим",
+        goToTarget: "Перейти на точку",
+        zonedCleanup: "Уборка зоны",
+        zones: "Зоны",
+        run: "Начать",
+        repeats: "Повторить:",
+        confirmation: "Команда отправлена!"
+    },
     "es": {
         mode: "Modos",
         goToTarget: "Ir al objetivo",
